@@ -1,5 +1,5 @@
 # STARTER-lab03
-
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-5pm-4/branch/main/graph/badge.svg?token=KVTKOS5331)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-5pm-4)
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa03` above
